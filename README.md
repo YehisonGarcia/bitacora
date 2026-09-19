@@ -1,2 +1,0 @@
-# bitacora
-Bitacora Gabriela
