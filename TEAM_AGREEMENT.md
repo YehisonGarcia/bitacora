@@ -9,7 +9,7 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 | Nombre                  | Rol            | Usuario de GitHub | Bitácoras asignadas                          |
 | :---------------------- | :------------  | :---------------- | :------------------                          |
 | [Nombre del Aprendiz 1] | Líder          | `@usuario1`       | Agosto Semana 3 y 4                          |
-| [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       | Agosto Semana 1 y 2                          |
+| [Angel David Martinez Vizcaino] | Desarrollador1 | Angel-Martinez839      | Agosto Semana 1 y 2                          |
 | [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       | Agosto Semana 5 y Septiembre Semana 1        |
 
 El líder será el encargado de coordinar el trabajo del equipo, revisar los cambios realizados por los desarrolladores y realizar la integración final de las ramas hacia `main`.
@@ -115,3 +115,4 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 ---
 
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la aceptación de este acuerdo por parte de todos los integrantes del equipo.
+firma: Angel David Martinez Vizcaino
