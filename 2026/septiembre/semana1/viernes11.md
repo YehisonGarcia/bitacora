@@ -1,0 +1,6 @@
+# TABLA DE TRAZABILIDAD
+
+| ID | Timestamp (YYYY-MM-DD HH:MM) | Autoría (Responsable) | Objeto Técnico (Actividad y Alcance) | Impedimentos / Blockers (Qué ejecutó, qué falló, qué esperaba) | Plan de Acción (Mitigación / Próxima Tarea) |
+|----|------------------------------|-----------------------|--------------------------------------|----------------------------------------------------------------|---------------------------------------------|
+| 1  |          11/09/2026 1:00–1:20 PM             |        Gabriela Uribe Santamaria               |         Recibimos retroalimentación del instructor sobre la guía anterior y realizamos las correcciones necesarias.                            |     Sin impedimentos operativos                                                     |            Se continuó con la siguiente actividad.                                |
+| 2  |          07/09/2026 1:00–1:20                     |            Gabriela Uribe Santamaria           |             Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub.                        |   Sin impedimentos operativos                                                            |Se continuó con la siguiente actividad.  
